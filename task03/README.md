@@ -102,4 +102,4 @@
 | Наивный | 0.1 | 0.9 | <img src="./testing/autocont_10-90_bad_2.jpg" height="180"/> | <img src="./testing/hist_red_autocont_mono_10-90_bad_2.jpg" height="180"/>                |
 | RGB | 0.1 | 0.9 | <img src="./testing/autocont_colored_10-90_bad_2.jpg" height="180"/> | <img src="./testing/hist_red_autocont_colored_10-90_bad_2.jpg" height="180"/>                |
 
-Из гистограмм заметно, что RGB подход лучше наивного учтитывает баланс цветов цветов
+Из гистограмм заметно, что RGB подход лучше наивного учитывает баланс цветов
