@@ -44,12 +44,13 @@ std::pair<float, float> calc_distribution_params(const cv::Mat &img,
   return std::make_pair((float)(mean_val[0]), (float)(std_val[0]));
 }
 
-cv::Mat draw_histo(const cv::Mat &img, const int background_value) {
+cv::Mat draw_histo(const cv::Mat &img, const int background_value,
+                   const int channel) {
   cv::Mat hist;
   const int bins = 256;
   float range[] = {0.0f, 256.0f};
   const float *ranges[] = {range};
-  int channels[] = {0};
+  int channels[] = {channel};
   cv::calcHist(&img, 1, channels, cv::Mat(), hist, 1, &bins, ranges);
 
   // 2) Нормализуем так, чтобы максимум стал 250
