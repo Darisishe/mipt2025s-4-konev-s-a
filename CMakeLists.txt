@@ -8,6 +8,8 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY_DEBUG ${CMAKE_CURRENT_SOURCE_DIR}/bin)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY_RELEASE ${CMAKE_CURRENT_SOURCE_DIR}/bin)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY_RELWITHDEBINFO ${CMAKE_CURRENT_SOURCE_DIR}/bin)
 
+find_package(PkgConfig REQUIRED)
+pkg_check_modules(JSONCPP jsoncpp)
 find_package(OpenCV REQUIRED)
 
 add_subdirectory(semcv)
@@ -15,3 +17,4 @@ add_subdirectory(semcv)
 add_subdirectory(task01)
 add_subdirectory(task02)
 add_subdirectory(task03)
+add_subdirectory(task04)

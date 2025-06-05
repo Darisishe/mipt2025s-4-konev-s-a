@@ -3,6 +3,7 @@
 #include <opencv2/opencv.hpp>
 #include <string>
 #include <vector>
+#include <json/json.h>
 
 // Task 1
 std::string strid_from_mat(const cv::Mat &img, const int n = 4);
@@ -23,3 +24,11 @@ cv::Mat autocontrast(const cv::Mat &img, const double q_black,
 
 cv::Mat autocontrast_rgb(const cv::Mat &img, const double q_black,
                              const double q_white);
+
+
+// Task 4
+std::pair<cv::Mat, std::vector<cv::Rect>> generate_ellipse_grid(const Json::Value &config, int seed);
+
+std::vector<cv::Rect> find_ellipses(const cv::Mat &image, int threshold,
+                                      int kernel_size = 3);
+
