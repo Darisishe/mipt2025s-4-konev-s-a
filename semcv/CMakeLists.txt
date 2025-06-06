@@ -5,6 +5,7 @@ add_library(
         semcv_task02.cpp
         semcv_task03.cpp
         semcv_task04.cpp
+        semcv_task05.cpp
         )
 
 set_property(TARGET semcv PROPERTY CXX_STANDARD 20)

@@ -32,3 +32,8 @@ std::pair<cv::Mat, std::vector<cv::Rect>> generate_ellipse_grid(const Json::Valu
 std::vector<cv::Rect> find_ellipses(const cv::Mat &image, int threshold,
                                       int kernel_size = 3);
 
+
+// Task 5
+cv::Mat create_squares_with_circles_image();
+
+cv::Mat apply_filters_and_create_collage(const cv::Mat &image);
