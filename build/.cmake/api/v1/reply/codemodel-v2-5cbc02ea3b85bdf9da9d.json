@@ -1,0 +1,271 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "semcv",
+					"jsonFile" : "directory-semcv-Debug-98a551c9f538764dd1b1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "semcv",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "task01",
+					"jsonFile" : "directory-task01-Debug-778fddbb1d9326612e09.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "task01",
+					"targetIndexes" : 
+					[
+						0,
+						2
+					]
+				},
+				{
+					"build" : "task02",
+					"jsonFile" : "directory-task02-Debug-119cc0441be2b80d4450.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "task02",
+					"targetIndexes" : 
+					[
+						3,
+						4
+					]
+				},
+				{
+					"build" : "task03",
+					"jsonFile" : "directory-task03-Debug-f389801464df49b59961.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "task03",
+					"targetIndexes" : 
+					[
+						5,
+						6
+					]
+				},
+				{
+					"build" : "task04",
+					"jsonFile" : "directory-task04-Debug-765fae8c3501175f200d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "task04",
+					"targetIndexes" : 
+					[
+						7,
+						8,
+						9
+					]
+				},
+				{
+					"build" : "task05",
+					"jsonFile" : "directory-task05-Debug-0faceb2299fd434a765b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "task05",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "task06",
+					"jsonFile" : "directory-task06-Debug-7413408f2c11c0999e1f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "task06",
+					"targetIndexes" : 
+					[
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					],
+					"name" : "mipt2025s_konev_s_a",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "generator_task01::@64e856a7c05ddacc0490",
+					"jsonFile" : "target-generator_task01-Debug-0a1d199baa8b6b794744.json",
+					"name" : "generator_task01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "semcv::@7e6e0af8f5f8ffe7dc56",
+					"jsonFile" : "target-semcv-Debug-4ba9c80cfd61d2b755d4.json",
+					"name" : "semcv",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "task01::@64e856a7c05ddacc0490",
+					"jsonFile" : "target-task01-Debug-e8dd51f6795836d4a98d.json",
+					"name" : "task01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "task02::@498bbecebf66f2e5cb04",
+					"jsonFile" : "target-task02-Debug-8fdb7c03fbfac7420bdd.json",
+					"name" : "task02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "task02_distr_params::@498bbecebf66f2e5cb04",
+					"jsonFile" : "target-task02_distr_params-Debug-cacfbdb9a8448b3e99ed.json",
+					"name" : "task02_distr_params",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "task03::@034bfe3e1f38b35f2fe9",
+					"jsonFile" : "target-task03-Debug-9836917386a7ad46f79b.json",
+					"name" : "task03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "task03_test_contrast::@034bfe3e1f38b35f2fe9",
+					"jsonFile" : "target-task03_test_contrast-Debug-244724bee22cca58ed3b.json",
+					"name" : "task03_test_contrast",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "task04_01::@8d7a12a293781227eebd",
+					"jsonFile" : "target-task04_01-Debug-3f6730687e24f9ece763.json",
+					"name" : "task04_01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "task04_02::@8d7a12a293781227eebd",
+					"jsonFile" : "target-task04_02-Debug-6a9354736ed788aa5dfb.json",
+					"name" : "task04_02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "task04_03::@8d7a12a293781227eebd",
+					"jsonFile" : "target-task04_03-Debug-5986e7e6865e2c997d19.json",
+					"name" : "task04_03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "task05::@59561aabc8b4c6432ba8",
+					"jsonFile" : "target-task05-Debug-a15c75460ece49c73dd0.json",
+					"name" : "task05",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "task06::@4d61e9edef2838a08e37",
+					"jsonFile" : "target-task06-Debug-37e44f63340c55ba15d5.json",
+					"name" : "task06",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/user/development/mipt2025s-4-konev-s-a/build",
+		"source" : "/home/user/development/mipt2025s-4-konev-s-a"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

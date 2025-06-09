@@ -1,0 +1,24 @@
+{
+    "cell_size": 128,
+    "cell_margin": 32,
+
+    "grid_size": 5,
+
+    "noise_low": 0,
+    "noise_high": 20,
+
+    "blur_mean": 15, 
+    "blur_std": 10,
+
+    "ellipse": 
+    {
+        "axis_low": 10,
+        "axis_high": 60,
+        
+        "intensity_low": 90,
+        "intensity_high": 255
+        
+    },
+
+    "seed": 0
+}

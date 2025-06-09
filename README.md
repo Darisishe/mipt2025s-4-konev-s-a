@@ -5,4 +5,6 @@
 - [Задача 3](task03/README.md)
 - [Задача 4](task04/README.md)
 - [Задача 5](task05/README.md)
+- [Задача 5](task06/README.md)
+
 

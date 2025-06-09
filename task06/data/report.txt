@@ -1,0 +1,324 @@
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/1_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/1_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.728764
+  Precision:  0.92
+  Recall:     0.92
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/2_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/2_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.678736
+  Precision:  0.76
+  Recall:     0.76
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/3_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/3_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.692045
+  Precision:  0.92
+  Recall:     0.92
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/4_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/4_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.682547
+  Precision:  0.92
+  Recall:     0.92
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/5_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/5_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.636863
+  Precision:  0.92
+  Recall:     0.92
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/6_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/6_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.642664
+  Precision:  0.88
+  Recall:     0.88
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/7_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/7_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.653514
+  Precision:  0.88
+  Recall:     0.88
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/8_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/8_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.635456
+  Precision:  0.88
+  Recall:     0.88
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/9_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/9_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.637246
+  Precision:  0.84
+  Recall:     0.84
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/10_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/10_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.7061
+  Precision:  0.88
+  Recall:     0.88
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/11_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/11_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.676013
+  Precision:  0.84
+  Recall:     0.84
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/12_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/12_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.603758
+  Precision:  0.68
+  Recall:     0.68
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/13_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/13_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.701645
+  Precision:  0.88
+  Recall:     0.88
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/14_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/14_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.663014
+  Precision:  0.88
+  Recall:     0.88
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/15_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/15_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.662728
+  Precision:  0.88
+  Recall:     0.88
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/16_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/16_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.723679
+  Precision:  0.96
+  Recall:     0.96
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/17_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/17_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.631116
+  Precision:  0.92
+  Recall:     0.92
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/18_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/18_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.679296
+  Precision:  0.88
+  Recall:     0.88
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/19_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/19_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.682127
+  Precision:  0.92
+  Recall:     0.92
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/20_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/20_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.703051
+  Precision:  0.96
+  Recall:     0.96
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/21_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/21_truth.txt
+  Detections: 25, GroundTruths: 22
+  Mean IoU:   0.65929
+  Precision:  0.88
+  Recall:     1
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/22_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/22_truth.txt
+  Detections: 25, GroundTruths: 24
+  Mean IoU:   0.708571
+  Precision:  0.92
+  Recall:     0.958333
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/23_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/23_truth.txt
+  Detections: 25, GroundTruths: 26
+  Mean IoU:   0.651507
+  Precision:  0.88
+  Recall:     0.846154
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/24_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/24_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.742585
+  Precision:  0.96
+  Recall:     0.96
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/25_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/25_truth.txt
+  Detections: 25, GroundTruths: 20
+  Mean IoU:   0.611402
+  Precision:  0.76
+  Recall:     0.95
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/26_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/26_truth.txt
+  Detections: 25, GroundTruths: 26
+  Mean IoU:   0.698406
+  Precision:  0.88
+  Recall:     0.846154
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/27_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/27_truth.txt
+  Detections: 25, GroundTruths: 27
+  Mean IoU:   0.661932
+  Precision:  0.8
+  Recall:     0.740741
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/28_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/28_truth.txt
+  Detections: 25, GroundTruths: 24
+  Mean IoU:   0.703911
+  Precision:  0.92
+  Recall:     0.958333
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/29_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/29_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.699473
+  Precision:  0.8
+  Recall:     0.8
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/30_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/30_truth.txt
+  Detections: 25, GroundTruths: 24
+  Mean IoU:   0.761928
+  Precision:  0.96
+  Recall:     1
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/31_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/31_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.785081
+  Precision:  1
+  Recall:     1
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/32_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/32_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.797857
+  Precision:  1
+  Recall:     1
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/33_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/33_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.789673
+  Precision:  1
+  Recall:     1
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/34_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/34_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.798025
+  Precision:  1
+  Recall:     1
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/35_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/35_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.785325
+  Precision:  1
+  Recall:     1
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/36_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/36_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.800073
+  Precision:  1
+  Recall:     1
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/37_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/37_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.763739
+  Precision:  1
+  Recall:     1
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/38_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/38_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.823947
+  Precision:  1
+  Recall:     1
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/39_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/39_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.781141
+  Precision:  1
+  Recall:     1
+----------------------------------------
+Evaluating:
+  Truths: /home/user/development/mipt2025s-4-konev-s-a/task06/data/40_pred.txt
+  Predictions: /home/user/development/mipt2025s-4-konev-s-a/task06/data/40_truth.txt
+  Detections: 25, GroundTruths: 25
+  Mean IoU:   0.799661
+  Precision:  1
+  Recall:     1
+----------------------------------------
+Overall Averages:
+  Mean IoU:  0.706097
+  Precision: 0.909
+  Recall:    0.916493

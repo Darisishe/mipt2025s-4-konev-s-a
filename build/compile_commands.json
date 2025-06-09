@@ -1,0 +1,104 @@
+[
+{
+  "directory": "/home/user/development/mipt2025s-4-konev-s-a/build/semcv",
+  "command": "/usr/bin/clang++  -I/home/user/development/mipt2025s-4-konev-s-a/semcv/.. -isystem /usr/include/opencv4 -g -std=gnu++20 -o CMakeFiles/semcv.dir/semcv_task01.cpp.o -c /home/user/development/mipt2025s-4-konev-s-a/semcv/semcv_task01.cpp",
+  "file": "/home/user/development/mipt2025s-4-konev-s-a/semcv/semcv_task01.cpp",
+  "output": "semcv/CMakeFiles/semcv.dir/semcv_task01.cpp.o"
+},
+{
+  "directory": "/home/user/development/mipt2025s-4-konev-s-a/build/semcv",
+  "command": "/usr/bin/clang++  -I/home/user/development/mipt2025s-4-konev-s-a/semcv/.. -isystem /usr/include/opencv4 -g -std=gnu++20 -o CMakeFiles/semcv.dir/semcv_task02.cpp.o -c /home/user/development/mipt2025s-4-konev-s-a/semcv/semcv_task02.cpp",
+  "file": "/home/user/development/mipt2025s-4-konev-s-a/semcv/semcv_task02.cpp",
+  "output": "semcv/CMakeFiles/semcv.dir/semcv_task02.cpp.o"
+},
+{
+  "directory": "/home/user/development/mipt2025s-4-konev-s-a/build/semcv",
+  "command": "/usr/bin/clang++  -I/home/user/development/mipt2025s-4-konev-s-a/semcv/.. -isystem /usr/include/opencv4 -g -std=gnu++20 -o CMakeFiles/semcv.dir/semcv_task03.cpp.o -c /home/user/development/mipt2025s-4-konev-s-a/semcv/semcv_task03.cpp",
+  "file": "/home/user/development/mipt2025s-4-konev-s-a/semcv/semcv_task03.cpp",
+  "output": "semcv/CMakeFiles/semcv.dir/semcv_task03.cpp.o"
+},
+{
+  "directory": "/home/user/development/mipt2025s-4-konev-s-a/build/semcv",
+  "command": "/usr/bin/clang++  -I/home/user/development/mipt2025s-4-konev-s-a/semcv/.. -isystem /usr/include/opencv4 -g -std=gnu++20 -o CMakeFiles/semcv.dir/semcv_task04.cpp.o -c /home/user/development/mipt2025s-4-konev-s-a/semcv/semcv_task04.cpp",
+  "file": "/home/user/development/mipt2025s-4-konev-s-a/semcv/semcv_task04.cpp",
+  "output": "semcv/CMakeFiles/semcv.dir/semcv_task04.cpp.o"
+},
+{
+  "directory": "/home/user/development/mipt2025s-4-konev-s-a/build/semcv",
+  "command": "/usr/bin/clang++  -I/home/user/development/mipt2025s-4-konev-s-a/semcv/.. -isystem /usr/include/opencv4 -g -std=gnu++20 -o CMakeFiles/semcv.dir/semcv_task05.cpp.o -c /home/user/development/mipt2025s-4-konev-s-a/semcv/semcv_task05.cpp",
+  "file": "/home/user/development/mipt2025s-4-konev-s-a/semcv/semcv_task05.cpp",
+  "output": "semcv/CMakeFiles/semcv.dir/semcv_task05.cpp.o"
+},
+{
+  "directory": "/home/user/development/mipt2025s-4-konev-s-a/build/semcv",
+  "command": "/usr/bin/clang++  -I/home/user/development/mipt2025s-4-konev-s-a/semcv/.. -isystem /usr/include/opencv4 -g -std=gnu++20 -o CMakeFiles/semcv.dir/semcv_task06.cpp.o -c /home/user/development/mipt2025s-4-konev-s-a/semcv/semcv_task06.cpp",
+  "file": "/home/user/development/mipt2025s-4-konev-s-a/semcv/semcv_task06.cpp",
+  "output": "semcv/CMakeFiles/semcv.dir/semcv_task06.cpp.o"
+},
+{
+  "directory": "/home/user/development/mipt2025s-4-konev-s-a/build/task01",
+  "command": "/usr/bin/clang++ -DWORKING_DIRECTORY=\\\"/home/user/development/mipt2025s-4-konev-s-a/task01\\\" -I/home/user/development/mipt2025s-4-konev-s-a/semcv/.. -isystem /usr/include/opencv4 -g -std=gnu++20 -o CMakeFiles/generator_task01.dir/samples_generator.cpp.o -c /home/user/development/mipt2025s-4-konev-s-a/task01/samples_generator.cpp",
+  "file": "/home/user/development/mipt2025s-4-konev-s-a/task01/samples_generator.cpp",
+  "output": "task01/CMakeFiles/generator_task01.dir/samples_generator.cpp.o"
+},
+{
+  "directory": "/home/user/development/mipt2025s-4-konev-s-a/build/task01",
+  "command": "/usr/bin/clang++ -DWORKING_DIRECTORY=\\\"/home/user/development/mipt2025s-4-konev-s-a/task01\\\" -I/home/user/development/mipt2025s-4-konev-s-a/semcv/.. -isystem /usr/include/opencv4 -g -std=gnu++20 -o CMakeFiles/task01.dir/task01.cpp.o -c /home/user/development/mipt2025s-4-konev-s-a/task01/task01.cpp",
+  "file": "/home/user/development/mipt2025s-4-konev-s-a/task01/task01.cpp",
+  "output": "task01/CMakeFiles/task01.dir/task01.cpp.o"
+},
+{
+  "directory": "/home/user/development/mipt2025s-4-konev-s-a/build/task02",
+  "command": "/usr/bin/clang++ -DWORKING_DIRECTORY=\\\"/home/user/development/mipt2025s-4-konev-s-a/task02\\\" -I/home/user/development/mipt2025s-4-konev-s-a/semcv/.. -isystem /usr/include/opencv4 -g -std=gnu++20 -o CMakeFiles/task02.dir/task02.cpp.o -c /home/user/development/mipt2025s-4-konev-s-a/task02/task02.cpp",
+  "file": "/home/user/development/mipt2025s-4-konev-s-a/task02/task02.cpp",
+  "output": "task02/CMakeFiles/task02.dir/task02.cpp.o"
+},
+{
+  "directory": "/home/user/development/mipt2025s-4-konev-s-a/build/task02",
+  "command": "/usr/bin/clang++ -DWORKING_DIRECTORY=\\\"/home/user/development/mipt2025s-4-konev-s-a/task02\\\" -I/home/user/development/mipt2025s-4-konev-s-a/semcv/.. -isystem /usr/include/opencv4 -g -std=gnu++20 -o CMakeFiles/task02_distr_params.dir/distribution_params.cpp.o -c /home/user/development/mipt2025s-4-konev-s-a/task02/distribution_params.cpp",
+  "file": "/home/user/development/mipt2025s-4-konev-s-a/task02/distribution_params.cpp",
+  "output": "task02/CMakeFiles/task02_distr_params.dir/distribution_params.cpp.o"
+},
+{
+  "directory": "/home/user/development/mipt2025s-4-konev-s-a/build/task03",
+  "command": "/usr/bin/clang++ -DWORKING_DIRECTORY=\\\"/home/user/development/mipt2025s-4-konev-s-a/task03\\\" -I/home/user/development/mipt2025s-4-konev-s-a/semcv/.. -isystem /usr/include/opencv4 -g -std=gnu++20 -o CMakeFiles/task03_test_contrast.dir/test_contrast.cpp.o -c /home/user/development/mipt2025s-4-konev-s-a/task03/test_contrast.cpp",
+  "file": "/home/user/development/mipt2025s-4-konev-s-a/task03/test_contrast.cpp",
+  "output": "task03/CMakeFiles/task03_test_contrast.dir/test_contrast.cpp.o"
+},
+{
+  "directory": "/home/user/development/mipt2025s-4-konev-s-a/build/task03",
+  "command": "/usr/bin/clang++ -DWORKING_DIRECTORY=\\\"/home/user/development/mipt2025s-4-konev-s-a/task03\\\" -I/home/user/development/mipt2025s-4-konev-s-a/semcv/.. -isystem /usr/include/opencv4 -g -std=gnu++20 -o CMakeFiles/task03.dir/task03.cpp.o -c /home/user/development/mipt2025s-4-konev-s-a/task03/task03.cpp",
+  "file": "/home/user/development/mipt2025s-4-konev-s-a/task03/task03.cpp",
+  "output": "task03/CMakeFiles/task03.dir/task03.cpp.o"
+},
+{
+  "directory": "/home/user/development/mipt2025s-4-konev-s-a/build/task04",
+  "command": "/usr/bin/clang++ -DWORKING_DIRECTORY=\\\"/home/user/development/mipt2025s-4-konev-s-a/task04\\\" -I/home/user/development/mipt2025s-4-konev-s-a/semcv/.. -isystem /usr/include/opencv4 -g -std=gnu++20 -o CMakeFiles/task04_01.dir/task04_01.cpp.o -c /home/user/development/mipt2025s-4-konev-s-a/task04/task04_01.cpp",
+  "file": "/home/user/development/mipt2025s-4-konev-s-a/task04/task04_01.cpp",
+  "output": "task04/CMakeFiles/task04_01.dir/task04_01.cpp.o"
+},
+{
+  "directory": "/home/user/development/mipt2025s-4-konev-s-a/build/task04",
+  "command": "/usr/bin/clang++ -DWORKING_DIRECTORY=\\\"/home/user/development/mipt2025s-4-konev-s-a/task04\\\" -I/home/user/development/mipt2025s-4-konev-s-a/semcv/.. -isystem /usr/include/opencv4 -g -std=gnu++20 -o CMakeFiles/task04_02.dir/task04_02.cpp.o -c /home/user/development/mipt2025s-4-konev-s-a/task04/task04_02.cpp",
+  "file": "/home/user/development/mipt2025s-4-konev-s-a/task04/task04_02.cpp",
+  "output": "task04/CMakeFiles/task04_02.dir/task04_02.cpp.o"
+},
+{
+  "directory": "/home/user/development/mipt2025s-4-konev-s-a/build/task04",
+  "command": "/usr/bin/clang++ -DWORKING_DIRECTORY=\\\"/home/user/development/mipt2025s-4-konev-s-a/task04\\\" -I/home/user/development/mipt2025s-4-konev-s-a/semcv/.. -isystem /usr/include/opencv4 -g -std=gnu++20 -o CMakeFiles/task04_03.dir/task04_03.cpp.o -c /home/user/development/mipt2025s-4-konev-s-a/task04/task04_03.cpp",
+  "file": "/home/user/development/mipt2025s-4-konev-s-a/task04/task04_03.cpp",
+  "output": "task04/CMakeFiles/task04_03.dir/task04_03.cpp.o"
+},
+{
+  "directory": "/home/user/development/mipt2025s-4-konev-s-a/build/task05",
+  "command": "/usr/bin/clang++  -I/home/user/development/mipt2025s-4-konev-s-a/semcv/.. -isystem /usr/include/opencv4 -g -std=gnu++20 -o CMakeFiles/task05.dir/task05.cpp.o -c /home/user/development/mipt2025s-4-konev-s-a/task05/task05.cpp",
+  "file": "/home/user/development/mipt2025s-4-konev-s-a/task05/task05.cpp",
+  "output": "task05/CMakeFiles/task05.dir/task05.cpp.o"
+},
+{
+  "directory": "/home/user/development/mipt2025s-4-konev-s-a/build/task06",
+  "command": "/usr/bin/clang++  -I/home/user/development/mipt2025s-4-konev-s-a/semcv/.. -isystem /usr/include/opencv4 -g -std=gnu++20 -o CMakeFiles/task06.dir/task06.cpp.o -c /home/user/development/mipt2025s-4-konev-s-a/task06/task06.cpp",
+  "file": "/home/user/development/mipt2025s-4-konev-s-a/task06/task06.cpp",
+  "output": "task06/CMakeFiles/task06.dir/task06.cpp.o"
+}
+]

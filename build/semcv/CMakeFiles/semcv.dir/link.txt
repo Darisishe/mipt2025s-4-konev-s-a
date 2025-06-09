@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsemcv.a CMakeFiles/semcv.dir/semcv_task01.cpp.o CMakeFiles/semcv.dir/semcv_task02.cpp.o CMakeFiles/semcv.dir/semcv_task03.cpp.o CMakeFiles/semcv.dir/semcv_task04.cpp.o CMakeFiles/semcv.dir/semcv_task05.cpp.o CMakeFiles/semcv.dir/semcv_task06.cpp.o
+/usr/bin/ranlib libsemcv.a
